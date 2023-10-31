@@ -6,7 +6,7 @@
 
 
 
-<a href="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" rel="nofollow"><img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" height="26" style="max-width: 100%;"></a>  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width: 100%;">
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width: 100%;"> <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="max-width: 100%;"> <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" style="max-width: 100%;">
 
 
 
